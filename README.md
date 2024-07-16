@@ -50,8 +50,7 @@ simple shopping experience that puts the focus on the products.</p>
 [//]: # (<img src=''/>)
 </div>
 
-
-## For developers
+<h2> For developers </h2>
 To get started with the project, follow these steps:
 1. Install Docker
 

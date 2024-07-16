@@ -22,7 +22,7 @@ services:
       - ./backend:/app/backend
       - ./frontend:/app/frontend
     ports:
-      - "80:80"
+      - "${CONTAINER_PORT}:80"
     depends_on:
       - db
 
