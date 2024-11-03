@@ -31,7 +31,6 @@ staticfiles
 
 db_backup/*
 
-logs/*.log
 log/*.log
 
 
@@ -40,3 +39,13 @@ doc
 home.rst
 make.bat
 Makefile
+
+shop/migrations/0*
+venv/
+env/
+!*media/.gitkeep
+media/*
+staticfiles
+db_backup/*
+logs/*.log
+log/*.log
