@@ -55,7 +55,9 @@ simple shopping experience that puts the focus on the products.</p>
 </div>
 
 <h2> For developers </h2>
-To get started with the project, follow these steps:
+<div align="left">
+To get started with the project, follow these steps:<br>
+  
 1. Install Docker
 
 2. Clone the repository:
@@ -78,6 +80,6 @@ docker-compose up --build -d
 ```
 docker-compose exec web python3 manage.py populate_data
 ```
-
+</div>
 <h2> Contact </h2>
 <b>Feel free to connect with me on <a href='https://www.linkedin.com/in/pykharev/'>Linkedin</a></b>
