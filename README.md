@@ -13,12 +13,12 @@ simple shopping experience that puts the focus on the products.</p>
 
 👉 Live Demo: <a href='https://ascetic.pykharev.ru/'>Ecommerce Demo</a>
 
-<h3>Build with:</h3>
-
-» Docker <br>
+<h3>Built with:</h3>
 » Django DRF API <br>
-» Vanilla CSS <br>
-» VueJS
+» VueJS <br>
+» Docker <br>
+» PostgreSQL <br>
+» Vanilla CSS
 
 <h2>Screenshots of the Project 📸</h2>
 <br>
@@ -80,4 +80,4 @@ docker-compose exec web python3 manage.py populate_data
 ```
 
 <h2> Contact </h2>
-Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/pykharev/)
+<b>Feel free to connect with me on <a href='https://www.linkedin.com/in/pykharev/'>Linkedin</a></b>
