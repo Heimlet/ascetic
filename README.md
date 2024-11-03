@@ -11,7 +11,7 @@ simple shopping experience that puts the focus on the products.</p>
 
 <p>Credits for the design goes to <a href='https://github.com/Abderraouf-Rahmani'>Abderraouf</a></p>
 
-👉 Live Demo: <a href='(https://ascetic.pykharev.ru/)'>Ecommerce Demo</a>
+👉 Live Demo: <a href='https://ascetic.pykharev.ru/'>Ecommerce Demo</a>
 
 <h3>Build with:</h3>
 
@@ -78,3 +78,6 @@ docker-compose up --build -d
 ```
 docker-compose exec web python3 manage.py populate_data
 ```
+
+<h2> Contact </h2>
+Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/pykharev/)
